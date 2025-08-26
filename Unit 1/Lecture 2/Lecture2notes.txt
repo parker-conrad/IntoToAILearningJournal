@@ -1,0 +1,17 @@
+unit 1 Lecture 2 - AI terms
+
+Icebreaker - Ai shovel salesman - 95% ai implematations fail
+
+Terms
+	AI - defined in lecture 1
+	Bias - inbuilt preference - In AI because people who make it have bias
+	Black box - system where you don't know what goes on inside
+	Context window - timeframe of context in contains
+	Emergent behavior - behaving in a way that was not intended
+	Gen AI - ai that generate somethin
+	hallucination - make us a fact that doesn't exist
+	LLM - Large language model
+	Meta/System prompt - What comes before every prompt, hidden by devs - "you are helpful teaching assistant"
+	Prompt engineering - the process of making a good prompt 
+	Temperature - how likely or unlikely is choses something
+	Tokenizer - turns your text into token for the ai to read, uses letters generally not words

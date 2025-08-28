@@ -1,0 +1,11 @@
+unit 1 Lecture 4 - AI models
+
+Context window - ai short term memory
+Opensource - Oxford def, denoting software for which the original source code is made freely available and may be redistributed and modified.
+Opensource AI - what even is it? Not just locally run. Not properly defined
+
+Recourses needed for AI models - Electricity, they dont need to say, they likly lie.
+Moores law - wiki def, Moore's law is the observation that the number of transistors in an integrated circuit (IC) doubles about every two years.
+Moores law no longer effective
+AI energy hungry
+Reaoning costs a lot of tokens

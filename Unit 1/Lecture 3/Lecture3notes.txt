@@ -1,0 +1,11 @@
+unit 1 Lecture 3 - ethics
+
+ChatGPT run on OpenAI severs. 
+Carbon footprint - amout of carbon put into the atmosphere from an action.
+Ai costs electricity
+Ai trained on stolen data
+AI uses a lot of water
+With more AI they have less data to train on, casing issues - AI incest
+
+AI bias - twitter cropped dark skin people out.
+Twitter Tay - Teitter chatbot that very quickly beacke racist because it was fed by twitter users

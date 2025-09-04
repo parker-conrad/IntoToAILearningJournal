@@ -1,0 +1,24 @@
+Unit 2 Lecture 1 - Writing better prompts
+
+Prompt engineering - Altering and making better prompts for an ai for a better result
+Beter pronts will cost less
+Be precise with promting
+Your holding it wrong - blame user for issue
+AI will just be wronf sometimes
+
+Prompt steps 
+	Task - 
+		Persona(Who the AI is)
+		Format(Output type)
+	Context - 
+		Good: Give me some Ideas for a birthday present. Under $30
+		Great: Give me 5 ideas for a birthday present my budgest is $30 my gift is for a 29 year old who loves winter sports and has recently switched from snowboarding to skiing.
+	Refrence - 
+		Additional input data ideas/Give it better data
+	Evaluate the output
+	Iterate -> Task
+	
+Use smaller prompts and not one big prompt
+	Summarize data into points
+	Create visual graphs with data summarized
+	shorten key info summarized into bulletpints

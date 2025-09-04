@@ -1,0 +1,6 @@
+unit 2 Lecture 3
+
+Ask ai how it got answer for next prompt to be more correct
+Chain of density - Boiling down large piece of text to importtant parts
+AI will give wrong answer if it has no related training data.
+RAG - a system that allows you to give your own data

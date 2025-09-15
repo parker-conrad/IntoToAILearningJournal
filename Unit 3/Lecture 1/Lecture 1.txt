@@ -1,0 +1,9 @@
+Unit 3 Lecture 1 - MultiMedia
+MultiMedia - the use of a variety of artistic or communicative media
+TTS - Text to Speech
+Voice Cloning - makes tts based of a voice sample
+Text to Video - propting at to make a video from text
+Image to Video - Give reference image and make it to video
+
+Audio ai requirements - pacing, emotion, persona, context
+Video ai reqs - cinimatic terms, shot types, specify lighting, context

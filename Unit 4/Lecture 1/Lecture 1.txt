@@ -1,0 +1,7 @@
+Unit 4 Lecture 1 - Vide coding
+Videcoding - using ai to code without doing work yourself
+AI isn't great at maintaining code. 
+Over reliance on AI makes your dev skills softer
+Proper AI coding agents are very expensive 
+AI will add a lot of redundant code
+AI will use older solutions

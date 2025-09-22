@@ -1,0 +1,6 @@
+Unit 4 Lecture 3 - 
+Free AI is very lazy in fixing code. It will often just remove just remove code even if it breaks thing.
+AI will often call methods that do not exist.
+AI will make the simplest solution possible, even if it doesn't work.
+AI componies have all access to input data. Componies will often have a way to use secure AI.
+AI is good at fixing syntax errors

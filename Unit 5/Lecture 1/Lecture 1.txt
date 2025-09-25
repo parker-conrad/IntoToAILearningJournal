@@ -1,0 +1,13 @@
+Unit 5 Lecture 1 - 
+Hardware
+	Motherboard, connected to daughterboard, most important part is the CPU, all parts connected
+	CPU - silicon - sand - part of the computer that thinks, talks via pcie
+	Powersupply - coverts power to the required power for the computer 
+	Ram - Random Acess Memory - fast & volitle storage 
+		ECC - can fix its own data
+	Storage
+		HDD - disk drive
+		SSD - solid state drive
+	GPU - graphics processing unit
+	VRAM - Video Ram
+Raspberry pi - small computer

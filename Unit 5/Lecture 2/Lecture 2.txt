@@ -1,0 +1,6 @@
+Unit 5 Lecture 2 - 
+Hypervisor - allows one to run a VM, VirtualBox
+VM - virtual machine - isolated 
+VMs take a lot of ram
+
+Set up Debian VM

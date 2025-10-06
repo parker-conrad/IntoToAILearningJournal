@@ -1,0 +1,3 @@
+Unit 6 Lecture 3 -
+Fine tuning - training a model on specific data to make it better at a function
+Modelfile - a blueprint to customize an llm w/ ollama

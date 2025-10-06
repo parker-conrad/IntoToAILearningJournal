@@ -1,0 +1,6 @@
+Unit 6 Lecture 1 - 
+Docker, runs only sofware - faster & less bulky than a vm
+Container vs vm
+	container hosts kernal
+	vm uses hypervisor
+	container doesn't need os

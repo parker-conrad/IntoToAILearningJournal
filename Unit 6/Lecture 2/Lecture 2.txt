@@ -1,0 +1,3 @@
+Unit 6 Lecture 2 - 
+ollama - runs ai - by facebook - free open source
+Ran local AI
